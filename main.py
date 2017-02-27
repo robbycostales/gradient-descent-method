@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 from scipy import stats
 import random
 
+# Creator: Robert Costales
+# Date: 2/20/2017
+# Purpose: Find best fit line for data using GDM
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ RUN PREFERENCES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ #
 
 show_plot_init = False  # to show initial data plot
