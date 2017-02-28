@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from scipy import stats
 import random
 
+# Language: Python 3
 # Creator: Robert Costales
 # Date: 2/20/2017
 # Purpose: Find best fit line for data using GDM
